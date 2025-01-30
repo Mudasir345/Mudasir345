@@ -4,8 +4,8 @@
 💞 Open to collaborate on **AI Projects**, **Data Science Models**, **Cybersecurity Solutions**  
 📫 Reach me:  
 [![Email](https://img.shields.io/badge/Email-mudasirchoudhry345@gmail.com-blue?logo=gmail)](mailto:mudasirchoudhry345@gmail.com)  
-[![Facebook](https://img.shields.io/badge/Facebook-Mudasir-Choudry-blue?logo=facebook)](https://www.facebook.com/mudasir.choudry.56)  
-[![Facebook](https://img.shields.io/badge/Facebook-Mudasir-Mayo-blue?logo=facebook)](https://www.facebook.com/share/16EGvAbvRu/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Mudasir-blue?logo=facebook)](https://www.facebook.com/mudasir.choudry.56)  
+[![Facebook](https://img.shields.io/badge/Facebook-Mudasir-blue?logo=facebook)](https://www.facebook.com/share/16EGvAbvRu/)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-brightgreen?logo=whatsapp)](https://wa.me/923047045345)
 
 
