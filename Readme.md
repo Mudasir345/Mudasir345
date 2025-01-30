@@ -2,7 +2,7 @@
 ✨ **AI Enthusiast | ML Expert | Cybersecurity Pro | Full Stack Developer** ✨  
 🌱 Learning **Generative AI**, **FastAPI**, enhancing **ML** & **Networking** skills  
 💞 Open to collaborate on **AI Projects**, **Data Science Models**, **Cybersecurity Solutions**  
-📫 Reach me: [![Email](https://img.shields.io/badge/Email-teamhackpulse@duck.com-blue?logo=gmail)](mailto:teamhackpulse@duck.com) [![Medium](https://img.shields.io/badge/Medium-JamMudasir-orange?logo=medium)](https://jamMudasir.medium.com) [![Facebook](https://img.shields.io/badge/Facebook-JamMudasir-blue?logo=facebook)](https://www.facebook.com/jamMudasir0010)
+📫 Reach me: [![Email](https://img.shields.io/badge/Email-mudasirchoudhry345@gmail.com.com-blue?logo=gmail)](mailto:mudasirchoudhry345@gmail.com)  [![Facebook](https://img.shields.io/badge/Facebook-Mudasir-blue?logo=facebook)](https://www.facebook.com/mudasir.choudry.56)
 
 ## 💻 Skills & Expertise
 [![Python](https://img.shields.io/badge/Python-3.8-brightgreen?logo=python&logoColor=white)](https://www.python.org) [![JS](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![SQL](https://img.shields.io/badge/SQL-orange?logo=MySQL&logoColor=white)](https://www.mysql.com)  
