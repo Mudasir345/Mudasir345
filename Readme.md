@@ -28,7 +28,7 @@ I'm a **Full Stack Developer** with **3+ years of experience** building producti
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mudasirdev.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://mudasirdev.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mudasirdev.vercel.app-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://mudasirdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Mudasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudasir345/)
 [![Email](https://img.shields.io/badge/Gmail-mudasirchoudhry345%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirchoudhry345@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923047045345)
@@ -167,7 +167,7 @@ I'm a **Full Stack Developer** with **3+ years of experience** building producti
 **Available for freelance projects & remote opportunities**
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Let's%20Talk-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/923047045345)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Visit%20Now-orange?style=for-the-badge&logo=vercel)](https://mudasirdev.vercel.app/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Visit%20Now-orange?style=for-the-badge&logo=firefox)](https://mudasirdev.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
