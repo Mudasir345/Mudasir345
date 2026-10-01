@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+SaaS+Platforms+from+Scratch+%F0%9F%9A%80;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Laravel+%7C+Flutter;Turning+Ideas+into+Production+Apps+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+SaaS+Platforms+from+Scratch+%F0%9F%9A%80;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+Laravel+%7C+Flutter;Turning+Ideas+into+Production+Apps+%E2%9C%A8](https://git.io/typing-svg)
 
 </div>
 
@@ -28,7 +28,7 @@ I'm a **Full Stack Developer** with **3+ years of experience** building producti
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mudasirch.netlify.app-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://mudasirch.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mudasirdev.vercel.app-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://mudasirdev.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Mudasir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudasir345/)
 [![Email](https://img.shields.io/badge/Gmail-mudasirchoudhry345%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudasirchoudhry345@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923047045345)
@@ -80,21 +80,21 @@ I'm a **Full Stack Developer** with **3+ years of experience** building producti
 ## 🚀 Featured Projects
 
 ### 🎬 AR Player — Enterprise Video Hosting SaaS
-> A self-hosted video platform with AES-256 encryption, cryptographic domain locking, and a fully custom React video player (1,400+ lines). Built complete monetization: subscription plans, coupon engine, multi-gateway payments (EasyPaisa, JazzCash, PayPal, Crypto), and real-time analytics dashboard.
+> A self-hosted video platform with AES-256 encryption, cryptographic domain locking, and a fully custom React video player. Built complete monetization with subscription plans, coupon engine, multi-gateway payments, and real-time analytics.
 
 `React 18` `Vite` `Node.js` `MongoDB` `AWS`
 
 ---
 
 ### 📺 ViserTube — Multi-Tenant Video Streaming Platform
-> Production-grade SaaS on Laravel 11 with 58 Eloquent models, geo-targeted advertising engine, 32 payment gateways (Stripe, Razorpay, Binance, bKash, Flutterwave + 27 more), enterprise 2FA, KYC verification, and OAuth 2.0.
+> Production-grade SaaS on Laravel 11 with extensive Eloquent models, geo-targeted advertising, multiple payment gateways, enterprise 2FA, KYC verification, and OAuth 2.0.
 
 `PHP 8.3` `Laravel 11` `MySQL` `AWS` `Stripe`
 
 ---
 
 ### 🍽️ Board N Barrel — E-Commerce + POS + Restaurant System
-> Full-stack multi-module platform: customer storefront, Admin Dashboard, touch-optimized POS, and Kitchen Display System — all synchronized in real-time via PHP WebSockets. Integrated Stripe & Apple Pay.
+> Full-stack multi-module platform with customer storefront, Admin Dashboard, touch-optimized POS, and Kitchen Display System synchronized in real time via PHP WebSockets.
 
 `PHP` `MySQL` `WebSockets` `React` `Stripe`
 
@@ -167,7 +167,7 @@ I'm a **Full Stack Developer** with **3+ years of experience** building producti
 **Available for freelance projects & remote opportunities**
 
 [![Hire Me](https://img.shields.io/badge/Hire%20Me-Let's%20Talk-brightgreen?style=for-the-badge&logo=whatsapp)](https://wa.me/923047045345)
-[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Visit%20Now-orange?style=for-the-badge&logo=netlify)](https://mudasirch.netlify.app/)
+[![View Portfolio](https://img.shields.io/badge/View%20Portfolio-Visit%20Now-orange?style=for-the-badge&logo=vercel)](https://mudasirdev.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
